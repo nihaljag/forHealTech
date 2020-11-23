@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "670850372453",
+    "firebase_url": "https://healtechtesseract.firebaseio.com",
+    "project_id": "healtechtesseract",
+    "storage_bucket": "healtechtesseract.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670850372453:android:c32baa109d6140c363078c",
+        "android_client_info": {
+          "package_name": "com.example.HealTech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670850372453-1vb60n0ttjgrhocpor9b4ok2d9hst9g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpAnzqAZueitEKx6ZW__ovp0zHL_Wn5ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670850372453-1vb60n0ttjgrhocpor9b4ok2d9hst9g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

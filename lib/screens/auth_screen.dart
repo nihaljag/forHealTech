@@ -20,7 +20,7 @@ class _AuthScreenState extends State<AuthScreen> {
       setState(() => _isLoading = true);
       if (isLogin) {
         final userDocs =
-            await Firestore.instance.collection('users').getDocuments();
+            await FirebaseFirestore.instance.collection('users').getDocuments();
 
         authResult = await _auth.signInWithEmailAndPassword(
             email: email, password: password);

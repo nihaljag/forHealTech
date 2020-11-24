@@ -4,7 +4,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/services.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 //this comment
-//mac-edit
+//mac-edit again
 
 class AuthScreen extends StatefulWidget {
   @override
